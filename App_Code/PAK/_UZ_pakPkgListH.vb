@@ -235,6 +235,7 @@ Namespace SIS.PAK
           End If
         Next
       End If
+      'Change
       ''===========End Negative Balance =======================
       'Update POBItems From Packing List Items
       Dim tmpTotalWt As Decimal = 0
